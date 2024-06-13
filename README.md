@@ -5,5 +5,5 @@ WhaleNet architecture is a novel deep convolutional architecture designed for ma
 # Data
 Data is public and can be downloaded from the Watkins' Marine Mammals Sound Dataset- official webpage (https://whoicf2.whoi.edu/science/B/whalesounds/index.cfm) The scripts are designed to receive the data as a zip file.
 # Authors
-corresponding author: Alessandro Licciardi (Politecnico di Torino, Istituto Nazionale di Fisica Nucleare) alessandro.licciardi@polito.it
+corresponding author: Alessandro Licciardi (Politecnico di Torino, Istituto Nazionale di Fisica Nucleare) alessandro.licciardi@polito.it\\
 co-author: Davide Carbone (Politecnico di Torino, Istituto Nazionale di Fisica Nucleare) davide.carbone@polito.it
