@@ -14,7 +14,7 @@ import os
 import numpy as np
 from kymatio.torch import Scattering1D
 
-file = ZipFile('/home/alicciardi/whale_marine_mammals/data.zip', "r")
+file = ZipFile('./whale_marine_mammals/data.zip', "r")
 results_tot = {}
 def findOccurrences(s, ch):
     return [i for i, letter in enumerate(s) if letter == ch]
